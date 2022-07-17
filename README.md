@@ -1,6 +1,6 @@
 # Find Symbols
 
-This class find posative symbol base on Currency pares in this case "BUSD".
+This class find positive symbol base on Currency pares in this case "BUSD"
 
 
 
